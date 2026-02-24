@@ -10,7 +10,7 @@
   </p>
 </div>
 
-### 💜 About Me
+### About Me
 I am a passionate **Full Stack Developer** from Indonesia with a strong focus on building scalable web applications. I love exploring new technologies and optimizing system architectures for the best performance.
 
 - 🔭 Currently working on **Enterprise Solutions & Omni-channel Systems**.
