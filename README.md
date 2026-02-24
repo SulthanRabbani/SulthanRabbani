@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=7b2cbf&height=200&section=header&text=Hi,%20I'm%20Sulthan%20Rabbani&fontSize=70&animation=fadeIn" width="100%" />
-
+<img src="https://capsule-render.vercel.app/render?type=soft&color=7b2cbf&height=200&section=header&text=Sulthan%20Rabbani&fontSize=70&animation=fadeIn" width="100%" />
   <p align="center">
     <strong>Senior Full Stack Developer | Laravel & Next.js Enthusiast</strong>
   </p>
