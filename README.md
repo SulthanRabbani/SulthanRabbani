@@ -15,7 +15,6 @@ I am a passionate **Full Stack Developer** from Indonesia with a strong focus on
 
 - 🔭 Currently working on **Enterprise Solutions & Omni-channel Systems**.
 - 🌱 Learning more about **Web3, Solana Ecosystem, and AI Agents**.
-- ⚡ Fun fact: I enjoy tweaking my **DNA Chipset Vape** and exploring DeFi.
 
 ### 🛠 Tech Stack
 <p align="left">
