@@ -6,17 +6,17 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SulthanRabbani&theme=dracula" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SulthanRabbani&theme=dracula" height="180" alt="Repos Per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SulthanRabbani&theme=dracula" height="180" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SulthanRabbani&theme=dracula" height="180" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SulthanRabbani&theme=dracula" height="180" alt="Productive Time" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SulthanRabbani&theme=dracula" height="180" alt="Stats" /> -->
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SulthanRabbani&theme=dracula" height="180" alt="Productive Time" /> -->
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
