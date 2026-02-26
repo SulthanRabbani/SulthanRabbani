@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SulthanRabbani&theme=dracula" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SulthanRabbani&theme=dracula" height="180" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SulthanRabbani&theme=dracula" height="180" alt="Most Commit Language" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SulthanRabbani&theme=dracula" height="180" alt="Most Commit Language" /> -->
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SulthanRabbani&theme=dracula" height="180" alt="Stats" /> -->
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SulthanRabbani&theme=dracula" height="180" alt="Productive Time" /> -->
 </div>
